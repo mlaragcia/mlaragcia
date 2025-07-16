@@ -16,7 +16,7 @@
 - 💬 Me encanta compartir lo que aprendo y ayudar a otros desarrolladores
 - 📫 Puedes contactarme en: [ma.laragcia@gmail.com](mailto:ma.laragcia@gmail.com)
 - 🌐 Portafolio: En desarrollo 
-- 🔗 LinkedIn: [linkedin.com/in/miguel-angel-lara-garcia-96082b207(https://linkedin.com/in/miguel-angel-lara-garcia-96082b207)
+- 🔗 LinkedIn: https://linkedin.com/in/miguel-angel-lara-garcia-96082b207
 
 ---
 
