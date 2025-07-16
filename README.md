@@ -1,4 +1,5 @@
-<img alt="image" src="https://github.com/user-attachments/assets/4eff082f-e582-410b-a218-5a88f06c7205" style="width: 100%; height: auto;" />
+<img alt="image" src="https://github.com/user-attachmen![Uploading banner linkeding.png…]()
+ts/assets/4eff082f-e582-410b-a218-5a88f06c7205" style="width: 100%; height: auto;" />
 
 
 <h1 align="center">Hola, soy Miguel Ángel 👋</h1>
