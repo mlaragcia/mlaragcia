@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4eff082f-e582-410b-a218-5a88f06c7205" />
+
 <h1 align="center">Hola, soy Miguel Ángel 👋</h1>
 
 <p align="center">
