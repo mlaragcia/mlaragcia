@@ -1,5 +1,5 @@
 
-<img width="1584" height="396" alt="banner linkeding" src="https://github.com/user-attachments/assets/966a2b3f-dd2e-41df-9407-a99942c50b5c" />
+<img width="1584" height="396" alt="banner github" src="https://github.com/user-attachments/assets/e677b555-9359-4e88-b69a-f151b74ed799" />
 
 
 <h1 align="center">Hola, soy Miguel Ángel 👋</h1>
