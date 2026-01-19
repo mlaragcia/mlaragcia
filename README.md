@@ -14,7 +14,7 @@
 ### 🚀 Sobre mí
 ¡Hola! Soy Miguel Ángel, desarrollador web full-stack con ganas de crecer, aportar y disfrutar del proceso.
 
-🛠️ Trabajo con tecnologías como PHP, JavaScript, TypeScript, Laravel, Symfony, Angular, React, Docker y Git, y disfruto metiéndome en fregados que me obliguen a pensar y aprender.
+🛠️ Trabajo con tecnologías como Java, PHP, JavaScript, TypeScript, Laravel, Symfony, Angular, React, Docker y Git, y disfruto metiéndome en fregados que me obliguen a pensar y aprender.
 
 🚧 Actualmente estoy desarrollando proyectos personales como ClockinYou y WorkEsfera, que me sirven como campo de pruebas para seguir creciendo como profesional.
 
