@@ -24,7 +24,7 @@
 
 Algo más específico sobre mi:
 - 🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
-- 🌍 Desde Sevilla, España
+- 🌍 Desde España
 - 👨‍💻 Stack actual: `Laravel` · `Symfony` · `Angular` · `React` · `Java` · `Docker` · `Git`
 - 💡 Interesado en proyectos donde pueda aprender, crecer y marcar la diferencia
 - 💬 Me encanta compartir lo que aprendo y ayudar a otros desarrolladores
