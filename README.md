@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img
     src="./assets/banner-github.png"
@@ -33,9 +33,9 @@ Para la parte frontend utilizo principalmente **React**.
 
 Mi objetivo es seguir evolucionando como desarrollador y construir progresivamente un perfil que combine:
 
-```text
+
 Backend Java → Cloud → DevSecOps → Application Security
-```
+
 
 ---
 
