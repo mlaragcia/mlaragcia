@@ -233,4 +233,3 @@ Mi objetivo es seguir construyendo una base sólida como desarrollador y mejorar
 <p align="center">
   <i>Siempre aprendiendo. Siempre construyendo.</i>
 </p>
----
